@@ -83,7 +83,7 @@ Diseño y mejora de la experiencia de usuario (UI/UX).
 
 Implementación de componentes reutilizables y diseño responsivo.
 
-🖼️ Capturas de pantalla -EVIDENCIA - YA QUE EL PROYECTO ERA PRIVADO
+🖼️ Capturas de pantalla -EVIDENCIA
 
 https://drive.google.com/drive/folders/1xWrugSdt4M-gDxrMJd9J3s0uJjeOVztJ?usp=sharing
 
