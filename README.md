@@ -1,4 +1,4 @@
-# 🛒 Proyecto Ecommerce - Upgrade
+<img width="1904" height="895" alt="image" src="https://github.com/user-attachments/assets/216c1173-0fa2-47d2-a3d1-cacb6c550e57" /># 🛒 Proyecto Ecommerce - Upgrade
 
 Este es un **sistema de ecommerce completo** desarrollado en la empresa **Upgrade**, con el objetivo de **incrementar las ventas** a través de una plataforma digital robusta, moderna y escalable.  
 
@@ -83,8 +83,9 @@ Diseño y mejora de la experiencia de usuario (UI/UX).
 
 Implementación de componentes reutilizables y diseño responsivo.
 
-🖼️ Capturas de pantalla
-📌 Aquí puedes colocar capturas de ejemplo de la aplicación:
+🖼️ Capturas de pantalla -EVIDENCIA - YA QUE EL PROYECTO ERA PRIVADO
+
+https://drive.google.com/drive/folders/1xWrugSdt4M-gDxrMJd9J3s0uJjeOVztJ?usp=sharing
 
 Página principal del catálogo
 
